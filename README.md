@@ -1,3 +1,5 @@
+Hosted here: https://blogsome.onrender.com
+
 A blog website created using HTML, CSS, Bootstrap, JavaScript, EJS, Node and Express.
 
 Home Page:
